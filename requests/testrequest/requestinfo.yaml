@@ -1,0 +1,18 @@
+analysis-uuid: 858fb12c-b62f-9954-1997-a6ff8c27be0e
+requestor: lheinric
+title: request via webhook
+model: Fancy Physics Model
+model-type: SUSY
+reason for request: Existing Analysis extremely sensitive
+backends: ['dedicated']
+
+parameter points:
+  - directory name: testpoint0
+    point description: first point
+    number of Events: 1000
+    cross Section: 20
+  - directory name: testpoint1
+    point description: second point
+    number of Events: 1000
+    cross Section: 20
+      
