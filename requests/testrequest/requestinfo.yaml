@@ -3,7 +3,7 @@ requestor: lheinric
 title: request via webhook
 model: Fancy Physics Model
 model-type: SUSY
-reason for request: existing analysis extremely sensitive
+reason for request: existing analysis is extremely sensitive
 backends: ['dedicated']
 
 parameter points:
