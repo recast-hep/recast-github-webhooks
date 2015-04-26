@@ -9,10 +9,10 @@ backends: ['dedicated']
 parameter points:
   - directory name: testpoint0
     point description: first point
-    number of Events: 1000
-    cross Section: 20
+    number of events: 1000
+    cross section: 20
   - directory name: testpoint1
     point description: second point
-    number of Events: 1000
-    cross Section: 20
+    number of events: 1000
+    cross section: 20
       
