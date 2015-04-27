@@ -1,0 +1,18 @@
+analysis-uuid: 858fb12c-b62f-9954-1997-a6ff8c27be0e
+requestor: cranmer
+title: My first request from GitHub Webhook
+model: Some New Physics Model 
+model-type: SUSY
+reason for request: To demo. an improved  HEP workflow
+backends: ['dedicated']
+
+parameter points:
+  - directory name: testpoint0
+    point description: first point
+    number of events: 1000
+    cross section: 20
+  - directory name: testpoint1
+    point description: second point
+    number of events: 1000
+    cross section: 20
+      
