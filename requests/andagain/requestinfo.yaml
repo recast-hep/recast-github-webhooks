@@ -1,9 +1,9 @@
 analysis-uuid: 858fb12c-b62f-9954-1997-a6ff8c27be0e
-requestor: cranmer
-title: My first request from GitHub Webhook
+requestor: lheinric
+title: yet another request from GitHub Webhook
 model: Superfancy Physics Model
 model-type: SUSY
-reason for request: to demonstrate an improved HEP workflow
+reason for request: existing analysis is extremely sensitive, really.
 backends: ['dedicated']
 
 parameter points:
