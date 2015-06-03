@@ -1,0 +1,19 @@
+analysis-uuid: 09986001-6348-2fa4-59f8-f1d1b4a65776
+requestor: lheinric
+title: Another Request for Hiding Missing Energy in Missing Energy 
+model: three-body decays
+model-type: SUSY
+reason for request: existing analysis is sensitive
+backends: ['dedicated']
+
+parameter points:
+  - directory name: squarks
+    point description: squark
+    number of events: 1000
+    cross section: 20      
+
+  - directory name: stops
+    point description: stop
+    number of events: 1000
+    cross section: 20      
+
